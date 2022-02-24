@@ -1,0 +1,2 @@
+docker pull atlassian/bitbucket-server
+docker run -p 7990:7990 -p 7999:7999 -d atlassian/bitbucket-server
